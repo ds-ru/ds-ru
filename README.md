@@ -65,3 +65,9 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Speranskiy_Dmitriy-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Speranskiy_Dmitriy)
 
+
+## Other mine interesting repo`s
+https://github.com/ds-ru/dobro_rf_parser
+https://github.com/ds-ru/Detskiy_Mir_Parser
+https://github.com/ds-ru/Parser_Globus
+https://github.com/ds-ru/microservices_synergetic
