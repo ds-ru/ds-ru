@@ -39,24 +39,36 @@
 
 ## 🧰 Tech Stack
 
-### Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Asyncio](https://img.shields.io/badge/asyncio-000000?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Data & Storage
+### Data & Analytics
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Data Pipelines
+### ETL & Orchestration
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-### Infrastructure
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=for-the-badge&logo=python&logoColor=white)
+
+### Infrastructure & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker--Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
 
-### Bots & Cloud
-![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+### Bots & Interfaces
+![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Storage & Cloud
+![S3](https://img.shields.io/badge/S3_Compatible_Storage-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-FF0000?style=for-the-badge&logo=yandexcloud&logoColor=white)
 
 ---
@@ -66,7 +78,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@Speranskiy_Dmitriy-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Speranskiy_Dmitriy)
 
 
-## Other mine interesting repo`s
+## 🚀 Some of My Other Projects
 https://github.com/ds-ru/SA_multi_task_service
 
 https://github.com/ds-ru/Virtus-Pro-Winline
