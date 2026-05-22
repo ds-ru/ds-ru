@@ -1,7 +1,7 @@
 <h1>
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=5000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dmitriy+Speranskiy" />
+      <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=5000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Speranskiy+Dmitriy" />
     </a>
   </p>
 </h1>
@@ -67,6 +67,10 @@
 
 
 ## Other mine interesting repo`s
+https://github.com/ds-ru/SA_multi_task_service
+
+https://github.com/ds-ru/Virtus-Pro-Winline
+
 https://github.com/ds-ru/dobro_rf_parser
 
 https://github.com/ds-ru/Detskiy_Mir_Parser
